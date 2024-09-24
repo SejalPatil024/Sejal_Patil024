@@ -9,7 +9,6 @@ I recently graduated with a **BSc in Computer Science**, specializing in **Artif
 - 📫 How to reach me: sejalpatil108@gmail.com
 - 😄 Pronouns: She/Her/Hers
 - ⚡ Fun fact: I enjoy solving complex tech challenges and love to share my knowledge in AI and IT service management.
-- 📝 [Resume](https://github.com/SejalPatil024/Sejal_Resume.pdf) 
 
 ### 🛠️ Languages & Tools
 <div align="left">
