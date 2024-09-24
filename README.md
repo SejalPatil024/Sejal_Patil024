@@ -1,9 +1,5 @@
 <h2 align="left">Hi 👋! My name is Sejal Patil, and I'm a Tech Problem Solver and AI Enthusiast from the United Kingdom.</h2>
 
-###
-
-<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
-
 ### 👋 Hey there! I'm Sejal Patil!
 
 I recently graduated with a **BSc in Computer Science**, specializing in **Artificial Intelligence**, from the University of Greenwich. With over **3 years of professional experience** as an **IT Service Desk Analyst**, I've developed a strong ability to diagnose and resolve technical issues efficiently while delivering excellent customer service. My journey into tech has been fueled by curiosity and a passion for problem-solving. Whether it’s setting up complex IT systems or diving deep into machine learning models, I love making technology work for people.
