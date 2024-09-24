@@ -59,8 +59,6 @@ I recently graduated with a **BSc in Computer Science**, specializing in **Artif
 
 <br clear="both">
 
-###
-
 ### 🎯 What I’m Looking For:
 I'm open to collaborating on exciting tech projects, especially in **IT support** and **AI-related development**. If you're looking for a dedicated professional to solve your IT challenges, feel free to reach out!
 
