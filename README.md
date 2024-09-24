@@ -65,8 +65,6 @@ I recently graduated with a **BSc in Computer Science**, specializing in **Artif
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
-
 ###
 
 ### 🎯 What I’m Looking For:
