@@ -1,9 +1,6 @@
 <h2 align="left">Hi 👋! My name is Sejal Patil, and I'm a Tech Problem Solver and AI Enthusiast.</h2>
 I recently graduated with a BSc in Computer Science, specializing in Artificial Intelligence, from the University of Greenwich. With over 3+ years of professional experience as an IT Service Desk Analyst, I've developed a strong ability to diagnose and resolve technical issues efficiently while delivering excellent customer service. My journey into tech has been fueled by curiosity and a passion for problem-solving. Whether it’s setting up complex IT systems or diving deep into machine learning models, I love making technology work for people.
 
-
-
-
 - 🔭 I’m currently exploring the fields of artificial intelligence and IT service management, combining technical support with advanced AI development.
 - 💬 Brainstorm with me about tech, algorithms, career growth, and innovative projects!
 - 📫 How to reach me: sejalpatil108@gmail.com
@@ -60,13 +57,8 @@ I recently graduated with a BSc in Computer Science, specializing in Artificial 
 ### 🎯 What I’m Looking For:
 I'm open to collaborating on exciting tech projects, especially in **IT support** and **AI-related development**. If you're looking for a dedicated professional to solve your IT challenges, feel free to reach out!
 
-  #### 📫 How to reach me:
-  
-  [<img src="https://img.icons8.com/fluent/48/000000/instagram-new.png" width="3.5%"/>](https://www.instagram.com/sejal_patil24)  &nbsp; 
+#### 📫 How to reach me:
+[<img src="https://img.icons8.com/fluent/48/000000/instagram-new.png" width="3.5%"/>](https://www.instagram.com/sejal_patil24)  &nbsp; 
 [<img src="https://img.icons8.com/color/48/000000/linkedin.png" width="3.5%"/>](https://www.linkedin.com/in/sejal-patil-/)  &nbsp; 
 <a href="mailto:sejalpatil108@gmail.com"> <img src="https://img.icons8.com/fluent/48/000000/gmail.png" width="3.5%"/> </a>
-
-
-
-
 
