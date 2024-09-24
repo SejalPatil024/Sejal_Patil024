@@ -2,13 +2,6 @@
 
 ###
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sejal-patil024&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sejal-patil024&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-</div>
-
-###
-
 <img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
 
 ### 👋 Hey there! I'm Sejal Patil!
@@ -50,21 +43,15 @@ I recently graduated with a **BSc in Computer Science**, specializing in **Artif
 
 ###
 
-### 📊 GitHub Stats:
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sejal-patil024&show_icons=true&theme=dracula" alt="Sejal's GitHub stats" />
-</div>
-
-###
-
 ### 🎯 What I’m Looking For:
 I'm open to collaborating on exciting tech projects, especially in **IT support** and **AI-related development**. If you're looking for a dedicated professional to solve your IT challenges, feel free to reach out!
 
 ### 📫 Connect with Me:
 - **LinkedIn**: [linkedin.com/in/sejal-patil-](https://www.linkedin.com/in/sejal-patil-)
 - **Email**: sejalpatil108@gmail.com
-- **GitHub**: [github.com/sejal-patil024](https://github.com/sejal-patil024)
+- **GitHub**: [github.com/SejalPatil024](https://github.com/SejalPatil024)
 
 ###
 
 <img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
+
