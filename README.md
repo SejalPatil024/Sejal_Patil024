@@ -33,12 +33,6 @@ I recently graduated with a **BSc in Computer Science**, specializing in **Artif
 
 ###
 
-
-- **Languages**: Python, Java, C, SQL (SQLite3), HTML/CSS, Rest API
-- **IT Management**: Active Directory, ITSM (ServiceNow), Incident Management, Microsoft 365, DHCP, SLA Management
-- **Networking**: TCP/IP, DNS, Microsoft Azure, WMS
-- **Development Tools**: PowerShell, Flask, MongoDB, Express.js, React.js, Node.js
-
 ### 🖥️ Work Experience:
 - **IT Service Desk Analyst | University of Greenwich (2021 - Present)**
   - Managed over **1000+ IT service requests annually**, maintaining a **98% customer satisfaction rate** by diagnosing and resolving technical issues effectively.
