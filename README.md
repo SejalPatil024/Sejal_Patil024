@@ -72,6 +72,12 @@ I recently graduated with a **BSc in Computer Science**, specializing in **Artif
 ### 🎯 What I’m Looking For:
 I'm open to collaborating on exciting tech projects, especially in **IT support** and **AI-related development**. If you're looking for a dedicated professional to solve your IT challenges, feel free to reach out!
 
+  #### 📫 How to reach me:
+  
+  [<img src="https://img.icons8.com/fluent/48/000000/instagram-new.png" width="3.5%"/>](https://www.instagram.com/sejal_patil24)  &nbsp; 
+[<img src="https://img.icons8.com/color/48/000000/linkedin.png" width="3.5%"/>](https://www.linkedin.com/in/sejal-patil-/)  &nbsp; 
+<a href="mailto:sejalpatil108@gmail.com"> <img src="https://img.icons8.com/fluent/48/000000/gmail.png" width="3.5%"/> </a>
+
 ### 📫 Connect with Me:
 - **LinkedIn**: [linkedin.com/in/sejal-patil-](https://www.linkedin.com/in/sejal-patil-)
 - **Email**: sejalpatil108@gmail.com
