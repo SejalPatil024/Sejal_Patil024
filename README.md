@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Sejal Patil, and I'm a Tech Problem Solver and AI Enthusiast from the United Kingdom.</h2>
+<h2 align="left">Hi 👋! My name is Sejal Patil, and I'm a Tech Problem Solver and AI Enthusiast.</h2>
 
 ### 👋 Hey there! I'm Sejal Patil!
 
