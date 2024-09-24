@@ -31,14 +31,6 @@ I recently graduated with a **BSc in Computer Science**, specializing in **Artif
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="40" alt="pandas logo"  />
 </div>
 
-###
-
-### 🖥️ Work Experience:
-- **IT Service Desk Analyst | University of Greenwich (2021 - Present)**
-  - Managed over **1000+ IT service requests annually**, maintaining a **98% customer satisfaction rate** by diagnosing and resolving technical issues effectively.
-  - Configured and deployed **100+ laptops and devices**, improving operational efficiency and user productivity.
-  - Delivered first-line support for software, hardware, and networking issues, ensuring compliance with IT and security policies.
-
 ### 🌟 Recent Projects:
 - **Telehealth Web Application** (April 2024): Built a feature-rich platform for video consultations between doctors and patients using MERN stack and WebRTC.
 - **Sentiment-Based Drug Recommendation System** (Nov 2023): Developed a machine learning-based system to recommend medicines based on patient reviews using Python, Flask, and MySQL.
