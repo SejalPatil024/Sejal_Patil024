@@ -4,6 +4,13 @@
 
 I recently graduated with a **BSc in Computer Science**, specializing in **Artificial Intelligence**, from the University of Greenwich. With over **3 years of professional experience** as an **IT Service Desk Analyst**, I've developed a strong ability to diagnose and resolve technical issues efficiently while delivering excellent customer service. My journey into tech has been fueled by curiosity and a passion for problem-solving. Whether it’s setting up complex IT systems or diving deep into machine learning models, I love making technology work for people.
 
+- 🔭 I’m currently exploring the fields of artificial intelligence and IT service management, combining technical support with advanced AI development.
+- 💬 Brainstorm with me about tech, algorithms, career growth, and innovative projects!
+- 📫 How to reach me: sejalpatil108@gmail.com
+- 😄 Pronouns: She/Her/Hers
+- ⚡ Fun fact: I enjoy solving complex tech challenges and love to share my knowledge in AI and IT service management.
+- 📝 [Resume](https://github.com/SejalPatil024/Sejal_Resume.pdf) 
+
 ### 🛠️ Languages & Tools
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
@@ -59,5 +66,8 @@ I'm open to collaborating on exciting tech projects, especially in **IT support*
   [<img src="https://img.icons8.com/fluent/48/000000/instagram-new.png" width="3.5%"/>](https://www.instagram.com/sejal_patil24)  &nbsp; 
 [<img src="https://img.icons8.com/color/48/000000/linkedin.png" width="3.5%"/>](https://www.linkedin.com/in/sejal-patil-/)  &nbsp; 
 <a href="mailto:sejalpatil108@gmail.com"> <img src="https://img.icons8.com/fluent/48/000000/gmail.png" width="3.5%"/> </a>
+
+
+
 
 
