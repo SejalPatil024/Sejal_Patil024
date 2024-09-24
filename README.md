@@ -4,16 +4,7 @@
 
 I recently graduated with a **BSc in Computer Science**, specializing in **Artificial Intelligence**, from the University of Greenwich. With over **3 years of professional experience** as an **IT Service Desk Analyst**, I've developed a strong ability to diagnose and resolve technical issues efficiently while delivering excellent customer service. My journey into tech has been fueled by curiosity and a passion for problem-solving. Whether it’s setting up complex IT systems or diving deep into machine learning models, I love making technology work for people.
 
-### 🛠️ Skills & Tools
-<p align="left">Hello World!!</p>
-
-###
-<div align="left">
-</div>
-###
-<div align="left">
-</div>
-###
+### 🛠️ Languages & Tools
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
   <img width="12" />
@@ -39,15 +30,7 @@ I recently graduated with a **BSc in Computer Science**, specializing in **Artif
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="40" alt="pandas logo"  />
 </div>
-###
-<div align="left">
-</div>
-###
-<div align="left">
-</div>
-###
-<div align="left">
-</div>
+
 ###
 
 
