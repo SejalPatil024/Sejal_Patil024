@@ -1,49 +1,70 @@
-<h2 align="left">Hi 👋!Hey there! I'm Sejal Patil, a passionate Tech Problem Solver and AI Enthusiast! </h2>
+<h2 align="left">Hi 👋! My name is Sejal Patil, and I'm a Tech Problem Solver and AI Enthusiast from the United Kingdom.</h2>
 
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=maurodesouza&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=maurodesouza&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=sejal-patil024&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sejal-patil024&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
 ###
 
 <img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
 
+### 👋 Hey there! I'm Sejal Patil!
+
+I recently graduated with a **BSc in Computer Science**, specializing in **Artificial Intelligence**, from the University of Greenwich. With over **3 years of professional experience** as an **IT Service Desk Analyst**, I've developed a strong ability to diagnose and resolve technical issues efficiently while delivering excellent customer service. My journey into tech has been fueled by curiosity and a passion for problem-solving. Whether it’s setting up complex IT systems or diving deep into machine learning models, I love making technology work for people.
+
+### 🛠️ Skills & Tools
+- **Languages**: Python, Java, C, SQL (SQLite3), HTML/CSS, Rest API
+- **IT Management**: Active Directory, ITSM (ServiceNow), Incident Management, Microsoft 365, DHCP, SLA Management
+- **Networking**: TCP/IP, DNS, Microsoft Azure, WMS
+- **Development Tools**: PowerShell, Flask, MongoDB, Express.js, React.js, Node.js
+
+### 🖥️ Work Experience:
+- **IT Service Desk Analyst | University of Greenwich (2021 - Present)**
+  - Managed over **1000+ IT service requests annually**, maintaining a **98% customer satisfaction rate** by diagnosing and resolving technical issues effectively.
+  - Configured and deployed **100+ laptops and devices**, improving operational efficiency and user productivity.
+  - Delivered first-line support for software, hardware, and networking issues, ensuring compliance with IT and security policies.
+
+### 🌟 Recent Projects:
+- **Telehealth Web Application** (April 2024): Built a feature-rich platform for video consultations between doctors and patients using MERN stack and WebRTC.
+- **Sentiment-Based Drug Recommendation System** (Nov 2023): Developed a machine learning-based system to recommend medicines based on patient reviews using Python, Flask, and MySQL.
+- **Networked Distributed System** (March 2023): Designed a Java-based communication platform with private messaging and registration features.
+
 ###
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="30" alt="sqlite logo"  />
 </div>
 
 ###
 
-<div align="left">
-  <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
-  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
-  <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitch logo"  />
-  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
-  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+### 📊 GitHub Stats:
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=sejal-patil024&show_icons=true&theme=dracula" alt="Sejal's GitHub stats" />
 </div>
 
 ###
 
-<br clear="both">
+### 🎯 What I’m Looking For:
+I'm open to collaborating on exciting tech projects, especially in **IT support** and **AI-related development**. If you're looking for a dedicated professional to solve your IT challenges, feel free to reach out!
+
+### 📫 Connect with Me:
+- **LinkedIn**: [linkedin.com/in/sejal-patil-](https://www.linkedin.com/in/sejal-patil-)
+- **Email**: sejalpatil108@gmail.com
+- **GitHub**: [github.com/sejal-patil024](https://github.com/sejal-patil024)
+
+###
 
 <img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
-
-###
